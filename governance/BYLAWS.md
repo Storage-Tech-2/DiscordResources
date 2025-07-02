@@ -27,3 +27,6 @@ Moderators may escalate immediately for severe violations.
 3.1 **Initial Appeal.** Members may appeal Moderator actions by DM‑ing any Moderator within 7 days.  
 3.2 **Secondary Appeal.** If unsatisfied, Members may petition the Board; a simple majority may uphold, modify, or overturn the decision.  
 3.3 **Final Appeal.** Matters involving constitutional interpretation may be escalated to the Supreme Council, whose ruling is final.
+
+### 4. Specific Policies
+4.1 Impersonation of other public persons are forbidden. Staff may change nicknames to distinguish members with similar names.
