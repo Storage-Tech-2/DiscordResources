@@ -30,4 +30,7 @@ Moderators may escalate immediately for severe violations.
 
 ### 4. Specific Policies
 4.1 Impersonation of other public persons are forbidden. Staff may change nicknames to distinguish members with similar names.
+
 4.2 Giving proper credit is a foundation of our community. Submitters are responsible for crediting all parties. People seeking credit for a design should discuss this with the submitter in the submission thread. Disputes that cannot be resolved between submitter/disputer will be decided by editors based on their knowledge and general community consensus.
+
+
